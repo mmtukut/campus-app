@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mmtukut/campus-app.git/static/css/main.a510e1a0.css",
+    "main.js": "/mmtukut/campus-app.git/static/js/main.e172c9c4.js",
+    "static/media/team.jpg": "/mmtukut/campus-app.git/static/media/team.a2273463cfe1284f1888.jpg",
+    "static/media/team.png": "/mmtukut/campus-app.git/static/media/team.56f74231ae655dd9924f.png",
+    "static/media/slick.svg": "/mmtukut/campus-app.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mmtukut/campus-app.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mmtukut/campus-app.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/mmtukut/campus-app.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/mmtukut/campus-app.git/index.html",
+    "main.a510e1a0.css.map": "/mmtukut/campus-app.git/static/css/main.a510e1a0.css.map",
+    "main.e172c9c4.js.map": "/mmtukut/campus-app.git/static/js/main.e172c9c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a510e1a0.css",
+    "static/js/main.e172c9c4.js"
+  ]
+}
